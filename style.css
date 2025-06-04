@@ -28,3 +28,17 @@ footer {
   background-color: #0077cc;
   color: white;
 }
+
+#proyectos a {
+  color: #0077cc;
+  text-decoration: none;
+}
+
+#proyectos a:hover {
+  text-decoration: underline;
+}
+
+#proyectos i {
+  color: #444;
+  margin-right: 8px;
+}
