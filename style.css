@@ -1,32 +1,25 @@
 body {
   font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f0f0f0;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 1rem;
   color: #333;
 }
 
-header {
-  background-color: #0077cc;
-  color: white;
-  padding: 20px;
-  text-align: center;
+header h1 {
+  display: flex;
+  align-items: center;
+  font-size: 2rem;
 }
 
-section {
-  padding: 20px;
-  background: white;
-  margin: 10px auto;
-  max-width: 800px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+header h1 i {
+  margin-right: 10px;
+  color: #333;
 }
 
-footer {
-  text-align: center;
-  padding: 10px;
-  background-color: #0077cc;
-  color: white;
+h2 {
+  color: #0077cc;
+  margin-top: 2rem;
 }
 
 #proyectos a {
@@ -41,4 +34,22 @@ footer {
 #proyectos i {
   color: #444;
   margin-right: 8px;
+}
+
+footer {
+  margin-top: 3rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+footer a {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+footer a:hover {
+  color: #b52e4c;
 }
