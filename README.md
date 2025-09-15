@@ -54,4 +54,3 @@ No requiere instalación de dependencias ni compilación.
 ---
 ⭐ Si te gustó este proyecto, ¡considera darle una estrella en GitHub!
 
-👉 [Ver la página online](https://cjunior7.github.io/mi-pagina-personal/)
