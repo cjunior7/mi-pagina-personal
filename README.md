@@ -1,6 +1,8 @@
 # 📌 Nombre del Proyecto
 
-Breve descripción del proyecto (qué hace y por qué lo creaste).
+Este proyecto es mi portfolio personal, una página web creada con HTML y CSS donde muestro quién soy, mis habilidades como programador y algunos de mis proyectos destacados.
+Mi objetivo con este sitio es tener un lugar centralizado para compartir mis trabajos, aprender a versionar proyectos con GitHub y practicar buenas prácticas de desarrollo web.
+El sitio es responsivo, se adapta a cualquier dispositivo, y está pensado para crecer en el futuro, incorporando más proyectos, mejoras de diseño y un formulario de contacto funcional.
 
 ## 🛠️ Tecnologías utilizadas
 - Lenguaje principal (C++, Python, Java, etc.)
