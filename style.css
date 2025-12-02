@@ -79,3 +79,33 @@ footer {
   font-size: 0.9rem;
   opacity: 0.7;
 }
+
+.top-buttons {
+  display: flex;
+  gap: 0.5rem;
+}
+
+#langToggle, #darkToggle {
+  padding: 0.4rem 0.7rem;
+  background: #ddd;
+  border: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+#langToggle:hover, #darkToggle:hover {
+  background: #ccc;
+}
+
+body.dark #langToggle,
+body.dark #darkToggle {
+  background: #333;
+  color: #fff;
+}
+
+body.dark #langToggle:hover,
+body.dark #darkToggle:hover {
+  background: #444;
+}
